@@ -1,0 +1,128 @@
+#img1 {
+    width: 60px;
+    height:60px;
+}
+body {
+    background-color:rgb(58, 55, 55) ;
+}
+
+#Alerta {
+    height: 60px;
+    text-align: center;
+    background-color: firebrick;
+    color: white;
+    
+}
+
+#Text1, #Text2, #Text3 {
+    text-align: center;
+    color: white;
+}
+
+#video{
+    align-self: auto;
+}
+
+#Text2 {
+    text-align: center;
+    color: white;
+}
+
+#Ofertas {
+    margin:10px auto;
+		    display:block;
+}
+
+#facebook {
+       height:20px;
+       width: 20px;
+}
+#twitter {
+    height:20px;
+    width: 20px;
+}
+#instagram {
+    height:20px;
+    width: 20px;
+}
+
+#Foto7 {
+    height: 600px;
+    width: 600px;
+    margin:0px auto;
+    display:block;
+
+}
+#Foto8, #Foto9 {
+    height: 600px;
+    width: 600px;
+    margin:10px auto;
+    display:block;
+
+}
+#Foto10{
+    height: 600px;
+    width: 500px;
+    margin:0px auto;
+    display:block;
+
+}
+#Text4{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#foto11{
+    height: 700px;
+    width: 700px;
+    margin:0px auto;
+    display:block;
+}
+
+#Mi10 {
+    margin:0px auto;
+    display:block;
+}
+
+#foto12{
+    margin:0px auto;
+    display:block;
+
+}
+
+#foto13{
+    margin:0px auto;
+    display:block;
+    
+}
+
+#foto15{
+    margin:0px auto;
+    display:block;
+    height:1px;
+    width:1px;
+}
+
+.fotox{ 
+    margin:0px auto;
+    display:block;
+    height:150px;
+    width:800px;
+}
+
+#block{
+    margin:0px auto;
+    display:block;
+}
+
+#text3{
+    margin:0px auto;
+    display:block;
+}
+
+#carouselExampleIndicators{
+    margin:0px auto;
+    display:block;
+    height: 500px;
+    width: 1000px;
+}

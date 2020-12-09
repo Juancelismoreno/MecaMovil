@@ -1,0 +1,9 @@
+
+  <!--Texto IPHONE-->
+    <h2 id=Text1>Iphone 12</h2>
+  <h1 id=Text1>Un salto al mañana.</h1>
+  <!--Video Apple-->
+  <div id=video class="embed-responsive embed-responsive-21by9">
+    <iframe showinfo="0" autoplay="0" class="embed-responsive-item" src="Videos/iphone12.mp4"></iframe>
+  </div>
+ 
